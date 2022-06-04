@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import MovieList from './MovieList.js'
+import MovieListUI from './MovieListUI.js'
 
 function App() {
   return (
-    <MovieList/>
+    <MovieListUI/>
   );
 }
 
